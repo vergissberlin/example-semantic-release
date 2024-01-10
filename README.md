@@ -7,3 +7,4 @@
 - New feature
 - Second new feature
 - Feature 3
+- Docs for feature 3
