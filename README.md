@@ -4,3 +4,4 @@
 - With ticket
 - Add a BREAKING CHANGE
 - Another fix
+- New feature
