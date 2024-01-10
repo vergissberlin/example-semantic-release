@@ -6,3 +6,4 @@
 - Another fix
 - New feature
 - Second new feature
+- Feature 3
