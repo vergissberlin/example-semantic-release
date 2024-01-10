@@ -5,3 +5,4 @@
 - Add a BREAKING CHANGE
 - Another fix
 - New feature
+- Second new feature
