@@ -10,10 +10,11 @@
     "release": {
         "branches": [
             "main"
-        ]
+        ],
+            "tagFormat": "${version}"
+
     },
-    "tagFormat": "${version}",
-    "keywords": [],
+    "keywords": ["release", "semantic", "release-it"],
     "author": "André Lademann",
     "license": "ISC",
     "dependencies": {
