@@ -12,6 +12,7 @@
             "main"
         ]
     },
+    "tagFormat": "${version}",
     "keywords": [],
     "author": "André Lademann",
     "license": "ISC",
