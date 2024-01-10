@@ -7,13 +7,6 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "private": true,
-    "release": {
-        "branches": [
-            "main"
-        ],
-            "tagFormat": "${version}"
-
-    },
     "keywords": ["release", "semantic", "release-it"],
     "author": "André Lademann",
     "license": "ISC",
