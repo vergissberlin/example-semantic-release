@@ -11,3 +11,4 @@
 - New tag format without v
 - Another try for format
 - Another fix
+- Does it still work?
