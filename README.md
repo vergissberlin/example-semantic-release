@@ -13,3 +13,4 @@
 - Another fix
 - Does it still work?
 - Version 0.0.2
+- Fix for 0.0.3
